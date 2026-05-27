@@ -53,6 +53,28 @@
 </p>
 
 ---
+## 🏆 Leadership & Positions of Responsibility
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 IIC (Institution's Innovation Council)</h4>
+      <ul>
+        <li><b>Role:</b> [Membar of Marketing Team]</li>
+        <li>Working on fostering a culture of innovation and startups within the campus.</li>
+        <li>Organizing hackathons,case study competitions and speaker sessions for aspiring entrepreneurs.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌍 Enactus MNNIT</h4>
+      <ul>
+        <li><b>Role:</b> [Member of R&D team]</li>
+        <li>Leading social entrepreneurship projects to create a sustainable impact.</li>
+        <li>Managing community outreach and business model development for social causes.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ### 🔥 My GitHub Streaks
 <p align="center">
