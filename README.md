@@ -76,16 +76,19 @@
   </tr>
 </table>
 ---
+
 ### ⚡ My Philosophy
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=radical&height=120&section=header&text=HUSTLE%20IN%20SILENCE&fontSize=50&animation=fadeIn" />
+  <img src="https://r2.community.xyz/70868a86-13d4-4a2a-8c7c-48c5e69e4680.png" width="800" alt="Alpha Dev Vibe" />
 </p>
 
-<blockquote align="center">
-  <b>"Work until your bank account looks like a phone number."</b> <br>
-  <i>Focus on the goal, the noise is just a distraction.</i>
-</blockquote>
+<p align="center">
+  <br>
+  <b><i>"Work until your bank account looks like a phone number."</i></b>
+  <br>
+  <b>Focus on the goal, the noise is just a distraction.</b>
+</p>
 
 ---
 
