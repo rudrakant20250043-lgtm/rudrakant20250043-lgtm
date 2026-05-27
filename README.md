@@ -24,9 +24,9 @@
         <li>⚡ <b>Fun Fact:</b> Turning noise into crystal clear sound with AI!</li>
       </ul>
     </td>
-    <td width="40%" valign="top">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Home.gif" width="100%" />
-    </td>
+   <td width="40%" valign="top">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZ6dzRyeXp6eXp6eXp6eXp6eXp6eXp6eXp6eXp6eXp6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" />
+</td>
   </tr>
 </table>
 ---
