@@ -75,6 +75,19 @@
     </td>
   </tr>
 </table>
+---
+### ⚡ My Philosophy
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=radical&height=120&section=header&text=HUSTLE%20IN%20SILENCE&fontSize=50&animation=fadeIn" />
+</p>
+
+<blockquote align="center">
+  <b>"Work until your bank account looks like a phone number."</b> <br>
+  <i>Focus on the goal, the noise is just a distraction.</i>
+</blockquote>
+
+---
 
 ### 🔥 My GitHub Streaks
 <p align="center">
