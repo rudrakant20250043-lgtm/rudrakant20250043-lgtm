@@ -16,16 +16,15 @@
         <li>🎓 <b>BTech Student</b> at MNNIT Allahabad (2025-29)</li>
         <li>🚀 <b>Lead Developer</b> building Lexis-AI</li>
         <li>🤖 <b>Tech Interests:</b> Audio AI, Data Science, and Machine Learning</li>
-        <li>📧 <b>How to reach me:</b> <a href="mailto:rudrakant.20250043@mnnit.ac.in">rudrakant.20250043@mnnit.ac.in</a></li>
+        <li>📧 <b>Contact:</b> <a href="mailto:rudrakant.20250043@mnnit.ac.in">rudrakant.20250043@mnnit.ac.in</a></li>
         <li>⚡ <b>Fun Fact:</b> Turning noise into crystal clear sound with AI!</li>
       </ul>
     </td>
     <td width="40%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=rudrakant20250043-lgtm&show_icons=true&theme=radical&hide_border=true" />
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Home.gif" width="100%" />
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🏆 Featured Projects (The Core)
