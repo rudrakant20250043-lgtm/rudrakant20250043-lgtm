@@ -37,13 +37,10 @@
 
 ---
 
-### 📊 Real-Time Stats (Radical Theme)
+### 🔥 My GitHub Streaks
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rudrakant20250043-lgtm&show_icons=true&theme=radical&cache_seconds=1800" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrakant20250043-lgtm&layout=compact&theme=radical&cache_seconds=1800" width="45%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrakant20250043-lgtm&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
 
 ### 📫 Let's Connect
 <p align="center">
