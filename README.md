@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rudrakant20250043-lgtm&color=2eb67d&style=plastic" alt="Profile Views" />
+</p>
+
 # <p align="center">✨ Welcome to Rudrakant's Digital Den ✨</p>
 
 <p align="center">
