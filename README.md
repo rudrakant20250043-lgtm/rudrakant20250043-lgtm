@@ -34,6 +34,7 @@
 ### 🏆 Featured Projects (The Core)
 
 #### 🎙️ [Lexis-AI](https://github.com/rudrakant20250043-lgtm/Lexis-AI)
+-----------------------------ONGOING PROJECT-----------------------------------
 - **Role:** Project Manager & Core Developer
 - **Tech:** Python, FastAPI, DeepFilterNet, Streamlit
 - **Impact:** Developed an end-to-end pipeline to remove background noise from YouTube videos using AI, delivering studio-quality audio.
