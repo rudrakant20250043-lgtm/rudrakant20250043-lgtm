@@ -58,3 +58,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/rudrakant20250043-lgtm/rudrakant20250043-lgtm/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=radical&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=70&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <b>✨ Happy Coding with Audio AI Spirit! ✨</b>
+</p>
