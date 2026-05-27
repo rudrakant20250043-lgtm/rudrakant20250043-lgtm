@@ -14,10 +14,9 @@ Currently leading the development of **Lexis-AI**, an AI-powered audio restorati
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=rudrakant20250043-lgtm&show_icons=true&theme=radical&hide_border=true" alt="Rudrakant's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=rudrakant20250043-lgtm&show_icons=true&theme=radical&hide_border=true" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrakant20250043-lgtm&layout=compact&theme=radical&hide_border=true" width="300" />
 </p>
-
----
 ### 🌟 Featured Projects
 - **Lexis-AI:** Lead Developer of an AI-powered noise reduction tool using DeepFilterNet.
 - **SQL Learning Project:** Simulated an Online Book Store database using complex SQL queries and relational design.
