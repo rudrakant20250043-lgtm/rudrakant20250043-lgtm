@@ -51,3 +51,10 @@
 <a href="mailto:rudrakant.20250043@mnnit.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/rudrax2467/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
+
+---
+
+### 🐍 The Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rudrakant20250043-lgtm/rudrakant20250043-lgtm/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
