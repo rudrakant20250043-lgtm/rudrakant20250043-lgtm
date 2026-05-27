@@ -77,10 +77,12 @@
 </table>
 ---
 
+---
+
 ### ⚡ My Philosophy
 
 <p align="center">
-  <img src="https://r2.community.xyz/70868a86-13d4-4a2a-8c7c-48c5e69e4680.png" width="800" alt="Alpha Dev Vibe" />
+  <img src="Philosophy.jpg" width="800" alt="Alpha Dev Vibe" />
 </p>
 
 <p align="center">
@@ -89,6 +91,8 @@
   <br>
   <b>Focus on the goal, the noise is just a distraction.</b>
 </p>
+
+---
 
 ---
 
